@@ -29,9 +29,9 @@ Repositorio con material de apoyo sobre computación cuántica: arquitectura de 
 ## 📊 **Casos de Uso Industriales**
 ```mermaid
 pie
-    title Sectores con Aplicaciones Cuánticas 2024
-    "Farmacéutica/Química" : 35
-    "Finanzas" : 25
-    "Logística" : 20
-    "Energía" : 15
-    "Ciberseguridad" : 5
+title Aplicaciones Cuánticas 2024
+    "Sector Farmacéutica/Química" : 35
+    "Sector Finanzas" : 25
+    "Sector Logística" : 20
+    "Sector Energía" : 15
+    "Sector Ciberseguridad" : 5
