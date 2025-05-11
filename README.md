@@ -1,6 +1,6 @@
 # Arquitectura y Aplicaciones de la Computación Cuántica 🚀⚛️
 
-![Quantum Computing Banner]([https://via.placeholder.com/1200x400/0d1117/00d1ff?text=Computación+Cuantica](https://www.google.com/imgres?q=computacion%20cuantica&imgurl=https%3A%2F%2Fe00-elmundo.uecdn.es%2Fassets%2Fmultimedia%2Fimagenes%2F2024%2F04%2F29%2F17143774460923.jpg&imgrefurl=https%3A%2F%2Fwww.elmundo.es%2Ftecnologia%2Finnovacion%2Fworking-progress%2F2024%2F04%2F29%2F662f5309fdddff201d8b457a.html&docid=36qUd4bmiFpEYM&tbnid=skmp_TsNvjSfjM&vet=12ahUKEwjF75yRn5yNAxUCfTABHeTHBRMQM3oECBwQAA..i&w=1000&h=563&hcb=2&ved=2ahUKEwjF75yRn5yNAxUCfTABHeTHBRMQM3oECBwQAA)) *(Reemplazar con imagen real)*
+![Quantum Computing Banner](https://i.pinimg.com/736x/5e/8e/48/5e8e4888a1b1565bc02a5673905d1ae0.jpg) *(Reemplazar con imagen real)*
 
 Repositorio con material de apoyo sobre computación cuántica: arquitectura de hardware, casos de uso industriales, teleportación cuántica y actores clave del ecosistema (2024).
 
