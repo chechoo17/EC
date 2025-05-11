@@ -1,6 +1,6 @@
 # Arquitectura y Aplicaciones de la Computación Cuántica 🚀⚛️
 
-![Quantum Computing Banner](https://i.pinimg.com/736x/5e/8e/48/5e8e4888a1b1565bc02a5673905d1ae0.jpg) *(Reemplazar con imagen real)*
+![Quantum Computing Banner]([https://i.pinimg.com/736x/5e/8e/48/5e8e4888a1b1565bc02a5673905d1ae0.jpg]) *(Reemplazar con imagen real)*
 
 Repositorio con material de apoyo sobre computación cuántica: arquitectura de hardware, casos de uso industriales, teleportación cuántica y actores clave del ecosistema (2024).
 
@@ -29,7 +29,7 @@ Repositorio con material de apoyo sobre computación cuántica: arquitectura de 
 ## 📊 **Casos de Uso Industriales**
 ```mermaid
 pie
-    title  Sectores con Aplicaciones Cuánticas (2024)
+    title "Sectores con Aplicaciones Cuánticas (2024)"
     "Farmacéutica/Química" : 35
     "Finanzas" : 25
     "Logística" : 20
