@@ -1,6 +1,6 @@
 # Arquitectura y Aplicaciones de la Computación Cuántica 🚀⚛️
 
-![Quantum Computing Banner](https://co.pinterest.com/pin/327777679151392112/)
+![Quantum Computing Banner](https://media.es.wired.com/photos/67ad0dc5685ad69c2c85181f/16:9/w_2560%2Cc_limit/GettyImages-2156615862.jpg)
 
 Repositorio con material de apoyo sobre computación cuántica: arquitectura de hardware, casos de uso industriales, teleportación cuántica y actores clave del ecosistema (2024).
 
